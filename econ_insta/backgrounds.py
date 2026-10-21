@@ -177,10 +177,23 @@ def _relevant(image: wikimedia.CommonsImage, query: str) -> bool:
     return any(term in title for term in terms) if terms else True
 
 
-def fetch_wikimedia(query: str, session: requests.Session | None = None) -> Background | None:
+WIKIMEDIA_JUDGE_MAX = 4
+"""headline이 있을 때 받아서 Claude 판정에 넘길 상한. 공용은 연속 요청에 429를 준다."""
+
+
+def fetch_wikimedia(
+    query: str,
+    session: requests.Session | None = None,
+    *,
+    headline: str = "",
+    client=None,
+) -> Background | None:
     """공용에서 재사용 가능한 주제 사진을 받아온다. 결과가 없으면 None(단색 표지).
 
     라이선스 판정과 크레딧 문구는 wikimedia 모듈이 API 메타데이터로 만든다.
+    `headline`이 있으면 상위 후보를 Claude가 이슈 관련성으로 판정한다(`photos.choose`) —
+    파일명 필터만으로는 '호르무즈 선박 피격'에 전투기 사진이 깔렸다(2026-10-21).
+    판정이 null이거나 실패하면 1등을 자동 채택하지 않고 None.
     """
     try:
         results = [
@@ -190,8 +203,21 @@ def fetch_wikimedia(query: str, session: requests.Session | None = None) -> Back
         ]
         if not results:
             return None
-        best = results[0]
-        image = wikimedia.download(best, session=session)
+        if not headline:
+            best = results[0]
+            image = wikimedia.download(best, session=session)
+        else:
+            fetched = []
+            for item in results[:WIKIMEDIA_JUDGE_MAX]:
+                try:
+                    fetched.append((item, wikimedia.download(item, session=session)))
+                except wikimedia.WikimediaError:
+                    continue  # 한 장 실패로 판정 전체를 버리지 않는다
+            labeled = [(f"공용 파일: {item.title}", img) for item, img in fetched]
+            index = photos.choose(labeled, headline, photos.STOCK_INTRO, client=client)
+            if index is None:
+                return None
+            best, image = fetched[index]
     except wikimedia.WikimediaError as exc:
         raise BackgroundError(str(exc)) from exc
 
@@ -242,7 +268,11 @@ def build_background(
     if not bg_query:
         return None
 
-    for source in (fetch_wikimedia, fetch_unsplash):
+    sources = (
+        lambda q, session: fetch_wikimedia(q, session=session, headline=headline, client=client),
+        fetch_unsplash,
+    )
+    for source in sources:
         try:
             background = source(bg_query, session=session)
         except BackgroundError as exc:

@@ -134,6 +134,48 @@ class FetchUnsplashTest(unittest.TestCase):
         self.assertTrue(any("download" in url for url in session.calls))
 
 
+def _commons(title: str):
+    return mock.Mock(title=title, credit=f"{title} (Wikimedia Commons, Public domain)")
+
+
+class FetchWikimediaJudgeTest(unittest.TestCase):
+    """2026-10-21: 기사 사진에 관련성 판정을 넣자 폴백 공용 검색이 '호르무즈 선박 피격'에
+    전투기 사진을 깔았다. headline이 있으면 공용 후보도 같은 판정(photos.choose)을 거친다."""
+
+    def _run(self, choice, headline="호르무즈 선박 피격"):
+        results = [_commons("File:Oil tanker Hormuz.jpg"), _commons("File:Hormuz fighter jet.jpg")]
+        images = {r.title: Image.new("RGB", (1200, 1500), (i * 80, 0, 0)) for i, r in enumerate(results)}
+        with mock.patch("econ_insta.backgrounds.wikimedia.search_images", return_value=results), \
+                mock.patch("econ_insta.backgrounds.wikimedia.download",
+                           side_effect=lambda item, session=None: images[item.title]), \
+                mock.patch("econ_insta.backgrounds.photos.choose", return_value=choice) as choose:
+            background = fetch_wikimedia("Hormuz", headline=headline)
+        return background, choose
+
+    def test_판정이_고른_후보를_쓴다(self):
+        background, choose = self._run(1)
+        self.assertEqual(background.credits, ("File:Hormuz fighter jet.jpg (Wikimedia Commons, Public domain)",))
+        labels = [label for label, _ in choose.call_args.args[0]]
+        self.assertEqual(labels, ["공용 파일: File:Oil tanker Hormuz.jpg", "공용 파일: File:Hormuz fighter jet.jpg"])
+        self.assertEqual(choose.call_args.args[1], "호르무즈 선박 피격")
+
+    def test_판정이_null이면_1등을_자동_채택하지_않는다(self):
+        background, _ = self._run(None)
+        self.assertIsNone(background)
+
+    def test_headline이_없으면_판정_없이_1등(self):
+        """AI 브리핑·블로그 요약 등 기존 호출부(headline 없음)의 동작은 그대로."""
+        background, choose = self._run(1, headline="")
+        choose.assert_not_called()
+        self.assertEqual(background.credits, ("File:Oil tanker Hormuz.jpg (Wikimedia Commons, Public domain)",))
+
+    def test_build_background가_headline을_공용_폴백에_넘긴다(self):
+        with mock.patch("econ_insta.backgrounds.fetch_wikimedia", return_value=None) as commons, \
+                mock.patch("econ_insta.backgrounds.fetch_unsplash", return_value=None):
+            build_background([], "Hormuz tanker", headline="호르무즈 선박 피격")
+        self.assertEqual(commons.call_args.kwargs["headline"], "호르무즈 선박 피격")
+
+
 class BuildBackgroundTest(unittest.TestCase):
     def test_인물이_있으면_bg_query_폴백보다_우선한다(self):
         """인물은 더 이상 전체 1순위가 아니다(1순위는 기사 사진) — 다만 issue가 없어
@@ -207,7 +249,7 @@ class BuildBackgroundChainTest(unittest.TestCase):
         """Unsplash는 인물 커버리지가 0이다(실측). 인물·로고는 공용에서만 온다."""
         order: list[str] = []
 
-        def commons(query, session=None):
+        def commons(query, session=None, **_kwargs):
             order.append("wikimedia")
             return None
 

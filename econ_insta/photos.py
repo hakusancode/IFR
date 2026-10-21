@@ -290,23 +290,29 @@ def _thumb(image: Image.Image) -> bytes:
     return buffer.getvalue()
 
 
-def _blocks(pairs: list[tuple[Candidate, Image.Image]], headline: str) -> list[dict]:
+ARTICLE_INTRO = (
+    "같은 기사 묶음에서 모은 사진 {n}장입니다. 이슈와 무관한 기사의 사진이 섞여 있습니다. "
+    "이슈와 직접 관련된 사진 중에서만 표지로 쓸 한 장을 고르십시오."
+)
+STOCK_INTRO = (
+    "검색어로 찾은 공용 사진 {n}장입니다. 검색 결과라 이슈와 무관한 사진이 섞여 있습니다. "
+    "이슈와 직접 관련된 사진 중에서만 표지로 쓸 한 장을 고르십시오."
+)
+
+
+def _candidate_label(candidate: Candidate) -> str:
+    return (
+        f"매체: {', '.join(sorted(candidate.sources))}\n"
+        f"실린 기사: {' / '.join(candidate.titles) or '(제목 없음)'}"
+    )
+
+
+def _blocks(labeled: list[tuple[str, Image.Image]], headline: str, intro: str) -> list[dict]:
     blocks: list[dict] = [
-        {
-            "type": "text",
-            "text": f"오늘의 이슈: {headline}\n\n같은 기사 묶음에서 모은 사진 "
-            f"{len(pairs)}장입니다. 이슈와 무관한 기사의 사진이 섞여 있습니다. "
-            "이슈와 직접 관련된 사진 중에서만 표지로 쓸 한 장을 고르십시오.",
-        }
+        {"type": "text", "text": f"오늘의 이슈: {headline}\n\n{intro.format(n=len(labeled))}"}
     ]
-    for index, (candidate, image) in enumerate(pairs):
-        blocks.append(
-            {
-                "type": "text",
-                "text": f"{index}번 (매체: {', '.join(sorted(candidate.sources))})\n"
-                f"실린 기사: {' / '.join(candidate.titles) or '(제목 없음)'}",
-            }
-        )
+    for index, (label, image) in enumerate(labeled):
+        blocks.append({"type": "text", "text": f"{index}번\n{label}"})
         blocks.append(
             {
                 "type": "image",
@@ -338,7 +344,26 @@ def pick(
     pairs = usable(candidates(issue), session=session, sleep=sleep)
     if not pairs:
         return None
+    labeled = [(_candidate_label(candidate), image) for candidate, image in pairs]
+    index = choose(labeled, headline, ARTICLE_INTRO, client=client, model=model)
+    return None if index is None else pairs[index][1]
 
+
+def choose(
+    labeled: list[tuple[str, Image.Image]],
+    headline: str,
+    intro: str,
+    client: anthropic.Anthropic | None = None,
+    model: str = MODEL,
+) -> int | None:
+    """(설명, 이미지) 후보 중 이슈와 관련된 표지 한 장의 번호. 없거나 실패하면 None.
+
+    기사 사진(`pick`)과 공용 검색 폴백(`backgrounds.fetch_wikimedia`)이 같은 판정을 쓴다 —
+    10/21 사고 후 기사 사진만 고쳤더니 폴백 공용 검색이 호르무즈 선박 피격에 전투기
+    사진을 그대로 깔았다. 관련성 판정이 없는 경로가 하나라도 남으면 같은 사고가 난다.
+    """
+    if not labeled:
+        return None
     caller = client or anthropic.Anthropic()
     try:
         response = caller.messages.create(
@@ -349,7 +374,7 @@ def pick(
                 "effort": EFFORT,
                 "format": {"type": "json_schema", "schema": PICK_SCHEMA},
             },
-            messages=[{"role": "user", "content": _blocks(pairs, headline)}],
+            messages=[{"role": "user", "content": _blocks(labeled, headline, intro)}],
         )
     except Exception:  # API 장애·인증·네트워크 — 배경 때문에 발행이 죽으면 안 된다
         return None
@@ -364,6 +389,6 @@ def pick(
         return None
 
     index = payload.get("pick")
-    if not isinstance(index, int) or isinstance(index, bool) or not 0 <= index < len(pairs):
+    if not isinstance(index, int) or isinstance(index, bool) or not 0 <= index < len(labeled):
         return None
-    return pairs[index][1]
+    return index
