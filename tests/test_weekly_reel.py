@@ -373,8 +373,10 @@ class BuildWeeklyArticlePhotoChainTest(unittest.TestCase):
                 patch.object(weekly_reel.reels, "anim_cover", side_effect=_fake_render),
                 patch.object(weekly_reel.reels, "anim_reason", side_effect=_fake_render),
                 patch.object(weekly_reel.reels, "anim_chart", side_effect=_fake_render),
-                patch.object(weekly_reel.reels, "encode", return_value=None),
-                patch.object(weekly_reel.audio, "pick_track", return_value=None),
+                patch.object(weekly_reel.reels, "encode",
+                             side_effect=lambda *a, **k: captured.__setitem__("audio_path", k.get("audio_path"))),
+                patch.object(weekly_reel.audio, "pick_track",
+                             return_value=SimpleNamespace(path=Path("bgm.mp3"), credit="곡")),
             ):
                 weekly_reel.build_weekly(when=TODAY)
         return captured
@@ -396,6 +398,12 @@ class BuildWeeklyArticlePhotoChainTest(unittest.TestCase):
         self.assertEqual([a.title for a in issue.articles], ["기사 제목 1", "기사 제목 2"])
         self.assertEqual(issue.articles[0].images, ["https://img/1.jpg"])
         self.assertEqual(issue.articles[0].source, "매일경제")
+
+    def test_배경음악을_끄면_트랙이_있어도_무음으로_인코딩한다(self):
+        """2026-10-21 사용자 지시 — 번들 트랙이 있어도 릴스에 얹지 않는다."""
+        captured = self._run([])
+        self.assertFalse(weekly_reel.BACKGROUND_MUSIC)
+        self.assertIsNone(captured["audio_path"])
 
     def test_기사가_없으면_issue는_None이다(self):
         captured = self._run([])

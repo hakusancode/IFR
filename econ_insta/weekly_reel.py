@@ -32,6 +32,7 @@ from .stock_brief import Series
 from .summarizer import MAX_TOKENS, MODEL, replace_hanja, residual_hanja
 
 EFFORT = "medium"
+BACKGROUND_MUSIC = False  # 2026-10-21 사용자 지시로 배경음악 끔
 
 TICKERS = {
     "코스피": "^KS11", "코스닥": "^KQ11", "원/달러": "KRW=X", "나스닥": "^IXIC",
@@ -474,7 +475,9 @@ def build_weekly(when: datetime | None = None, client: anthropic.Anthropic | Non
     ]
     scenes.append(reels.Scene(None, reels.CHART_SECONDS, render=reels.anim_chart(series, when, fonts)))
 
-    track = audio.pick_track(when)
+    # 배경음악은 끈다(2026-10-21 사용자 지시). 무음이어도 encode가 빈 AAC 트랙을 넣고,
+    # track=None이면 캡션의 🎵 크레딧 줄도 빠진다. 되살리려면 BACKGROUND_MUSIC만 켤 것.
+    track = audio.pick_track(when) if BACKGROUND_MUSIC else None
 
     out_dir.mkdir(parents=True, exist_ok=True)
     cover_path = out_dir / "reel-cover.jpg"
