@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-22",
+  "edition": "kr",
+  "headline": "금통위 전날, 국채시장 숨죽이다",
+  "issue_title": "佛 국채 10년물 금리 年5% 돌파…2002년 이후 처음",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "佛 국채 10년물 금리 年5% 돌파…2002년 이후 처음",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026102171271",
+      "published": "2026-10-21T23:56:46+09:00",
+      "images": []
+    },
+    {
+      "title": "금통위 앞두고 국고채 금리 대체로 하락…3년물 연 3.822%(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261021144851008",
+      "published": "2026-10-21T17:07:11+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2024/03/04/45/PCM20240304000145990_P2.jpg"
+      ]
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 3.822%",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261021144800008",
+      "published": "2026-10-21T16:40:47+09:00",
+      "images": []
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.832%",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261021085100008",
+      "published": "2026-10-21T11:42:12+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "금통위 하루 전, 국고채 금리 하락",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "프랑스발 긴장감도 변수",
+      "source": "한국경제"
+    },
+    {
+      "title": "국내 증시도 동반 출렁",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "관전포인트는 금통위 결정",
+      "source": "연합뉴스"
+    }
+  ]
+}
