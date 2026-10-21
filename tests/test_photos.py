@@ -100,6 +100,7 @@ class CandidatesTest(unittest.TestCase):
         result = candidates(issue)
         self.assertEqual(result[0].freq, 2)
         self.assertEqual(result[0].sources, frozenset({"연합뉴스"}))
+        self.assertEqual(result[0].titles, ("제목", "다른 제목"))
 
     def test_Candidate는_불변이다(self):
         issue = Issue(articles=[art("연합뉴스", [YNA_ORIGINAL])])
@@ -369,6 +370,30 @@ class PickTest(unittest.TestCase):
         content = client.messages.kwargs["messages"][0]["content"]
         texts = " ".join(b["text"] for b in content if b["type"] == "text")
         self.assertIn("코스피 7000 붕괴", texts)
+
+    def test_후보마다_실린_기사_제목이_프롬프트에_붙는다(self):
+        """2026-10-21 사고: 호르무즈 이슈 묶음에 섞인 무관 기사 사진(프랑스 진압경찰)이
+        표지로 나갔다. 모델이 관련성을 판단하려면 사진마다 어느 기사 것인지 알아야 한다."""
+        session = FakeSession({
+            "https://img.example.com/a.jpg": FakeResponse(_jpeg(1000, 1000)),
+            "https://img.example.com/b.jpg": FakeResponse(_jpeg(1000, 1000)),
+        })
+        issue = Issue(articles=[
+            art("WSJ", ["https://img.example.com/a.jpg"], title="Oil Rises Amid Attacks in Hormuz"),
+            art("WSJ", ["https://img.example.com/b.jpg"], title="Health Care Roundup: Market Talk"),
+        ])
+        client = FakeClient('{"pick": null, "reason": "관련 사진 없음"}')
+        pick(issue, "호르무즈 선박 피격", client=client, session=session)
+        content = client.messages.kwargs["messages"][0]["content"]
+        texts = " ".join(b["text"] for b in content if b["type"] == "text")
+        self.assertIn("Oil Rises Amid Attacks in Hormuz", texts)
+        self.assertIn("Health Care Roundup: Market Talk", texts)
+
+    def test_시스템_프롬프트가_관련성을_먼저_요구한다(self):
+        issue, session = _issue_with(1)
+        client = FakeClient('{"pick": null, "reason": "-"}')
+        pick(issue, "제목", client=client, session=session)
+        self.assertIn("관련성", client.messages.kwargs["system"])
 
     def test_max_tokens에서_잘리면_None(self):
         """stop_reason이 max_tokens면 JSON이 유효해도 None을 돌려준다."""

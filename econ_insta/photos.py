@@ -47,6 +47,10 @@ class Candidate:
     없어 승격이 안 걸린다). 대표 URL 하나만 들고 있으면, 하필 승격 안 되는 쪽이
     먼저 병합됐을 때 승격되는 다른 매체의 URL을 영영 시도하지 못한다
     (4단계 최종 리뷰 #1)."""
+    titles: tuple[str, ...] = ()
+    """이 사진을 실은 기사 제목들(등장 순서). 비전 판정에 같이 보낸다 — 이슈 클러스터는
+    무관한 기사까지 끌어오므로, 사진만 보고는 '이 이슈의 사진인가'를 판단할 수 없다
+    (2026-10-21 호르무즈 선박 피격 릴스에 프랑스 진압경찰 사진이 표지로 나간 사고)."""
 
     def __post_init__(self) -> None:
         if not self.urls:
@@ -78,13 +82,20 @@ def candidates(issue: Issue) -> list[Candidate]:
     for article in issue.articles:
         for url in article.images:
             key = _photo_key(url)
-            slot = slots.setdefault(key, {"url": url, "urls": [], "sources": set(), "freq": 0})
+            slot = slots.setdefault(
+                key, {"url": url, "urls": [], "sources": set(), "freq": 0, "titles": []}
+            )
             if url not in slot["urls"]:
                 slot["urls"].append(url)
+            if article.title and article.title not in slot["titles"]:
+                slot["titles"].append(article.title)
             slot["sources"].add(article.source)
             slot["freq"] += 1
     return [
-        Candidate(url=s["url"], urls=tuple(s["urls"]), sources=frozenset(s["sources"]), freq=s["freq"])
+        Candidate(
+            url=s["url"], urls=tuple(s["urls"]), sources=frozenset(s["sources"]),
+            freq=s["freq"], titles=tuple(s["titles"]),
+        )
         for s in slots.values()
     ]
 
@@ -250,7 +261,13 @@ PICK_SCHEMA = {
 SYSTEM = """당신은 인스타그램 경제 카드뉴스의 표지 사진을 고르는 편집자입니다.
 표지는 스크롤을 멈추게 하는 유일한 수단입니다. 정보 전달이 아니라 시선 강탈이 목적입니다.
 
-우선순위 (이목 집중 순):
+**가장 먼저: 이슈와의 관련성.** 후보는 같은 기사 묶음에서 모은 것이라 이슈와 무관한
+기사의 사진이 섞여 있습니다. 각 후보에 붙은 '실린 기사' 제목과 사진 내용을 보고,
+사진 속 인물·장소·사물이 오늘의 이슈와 직접 관련된 것만 고르십시오.
+기사 제목이 다른 주제이거나 사진이 이슈와 이어지지 않으면 아무리 극적이어도 배제합니다.
+(무관한 사진이 표지로 나가면 거짓 표지입니다 — 그래픽 표지보다 나쁩니다.)
+
+관련 있는 후보 중 우선순위 (이목 집중 순):
 1. 인물 얼굴 — 감정·표정이 강한 컷(놀람·긴장·환호). 얼굴이 크게 잡힌 것.
 2. 알아보는 기업 로고.
 3. 극적인 실사 — 긴장·규모·움직임이 있는 장면(거래소 객장·시위·공장 라인).
@@ -261,7 +278,7 @@ SYSTEM = """당신은 인스타그램 경제 카드뉴스의 표지 사진을 �
 - 스펙 표나 글자가 크게 박힌 전시 보드·차트 캡처
 - 밋밋한 증명사진식 인물
 
-이런 것뿐이면 pick을 null로 두십시오. **억지로 고르지 마십시오.**
+관련 있는 후보가 없거나 이런 것뿐이면 pick을 null로 두십시오. **억지로 고르지 마십시오.**
 표지가 사옥 사진으로 나가느니 그래픽으로 나가는 게 낫습니다."""
 
 
@@ -277,13 +294,18 @@ def _blocks(pairs: list[tuple[Candidate, Image.Image]], headline: str) -> list[d
     blocks: list[dict] = [
         {
             "type": "text",
-            "text": f"오늘의 이슈: {headline}\n\n이 이슈를 다룬 기사들에 실린 사진 "
-            f"{len(pairs)}장입니다. 표지로 쓸 한 장을 고르십시오.",
+            "text": f"오늘의 이슈: {headline}\n\n같은 기사 묶음에서 모은 사진 "
+            f"{len(pairs)}장입니다. 이슈와 무관한 기사의 사진이 섞여 있습니다. "
+            "이슈와 직접 관련된 사진 중에서만 표지로 쓸 한 장을 고르십시오.",
         }
     ]
     for index, (candidate, image) in enumerate(pairs):
         blocks.append(
-            {"type": "text", "text": f"{index}번 (매체: {', '.join(sorted(candidate.sources))})"}
+            {
+                "type": "text",
+                "text": f"{index}번 (매체: {', '.join(sorted(candidate.sources))})\n"
+                f"실린 기사: {' / '.join(candidate.titles) or '(제목 없음)'}",
+            }
         )
         blocks.append(
             {
