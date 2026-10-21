@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-21",
+  "edition": "kr",
+  "headline": "과자회사 회계조작, 과징금 철퇴 맞다",
+  "issue_title": "금융위, '회계처리 위반' 해태제과·관계자들에 13억 과징금",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "금융위, '회계처리 위반' 해태제과·관계자들에 13억 과징금",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261021165100002",
+      "published": "2026-10-21T18:55:14+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2018/11/26/82/PCM20181126000182990_P2.jpg"
+      ]
+    },
+    {
+      "title": "신용정보법 과징금 세분화…금융위, 23일부터 시행",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026102167141",
+      "published": "2026-10-21T17:45:33+09:00",
+      "images": []
+    },
+    {
+      "title": "금융위, 신정법 위반 중대성 따라 과징금 산정…예측가능성 높여",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261021139900002",
+      "published": "2026-10-21T16:30:53+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2019/01/18/62/PCM20190118000262990_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/10/21/AKR20261021139900002_01_i_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "해태제과, 회계기준 위반으로 과징금",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "신용정보법 과징금 체계도 손질",
+      "source": "한국경제"
+    },
+    {
+      "title": "예측가능성 높인다는 금융위 설명",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "23일 시행 앞두고 추가 제재 주목",
+      "source": "연합뉴스·한국경제"
+    }
+  ]
+}
