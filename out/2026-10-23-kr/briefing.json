@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-23",
+  "edition": "kr",
+  "headline": "한은, 두 달 연속 인상 뒤 '숨고르기'",
+  "issue_title": "7·8월 금리 올린 한은, 이번엔 숨 고르기…시장은 11월 인상 무게",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "7·8월 금리 올린 한은, 이번엔 숨 고르기…시장은 11월 인상 무게",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026102294751",
+      "published": "2026-10-22T18:07:59+09:00",
+      "images": []
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261022121100011",
+      "published": "2026-10-22T14:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102204900001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "증권가 \"한은, 예상된 금리 동결…긴축 종료 아닌 '속도 조절'\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261022113600008",
+      "published": "2026-10-22T14:08:04+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102214300001300_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022113600008_02_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "금리 인상 잠시 멈춘 한은…기준금리 3%로 동결",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12182575",
+      "published": "2026-10-22T10:01:02+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261022.7e02efd59d924c43838c2da1fde6ee91_R.jpg"
+      ]
+    },
+    {
+      "title": "[속보] 한은, 기준금리 연 3.00% ‘매파적 동결’…11월 인상 가시화",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12182564",
+      "published": "2026-10-22T09:50:19+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261022.9bdcfeae8f33408cbf23e29918a0817d_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "한은, 기준금리 3%로 동결",
+      "source": "매일경제"
+    },
+    {
+      "title": "물가·대외 불확실성이 변수",
+      "source": "매일경제"
+    },
+    {
+      "title": "증권가 '긴축 종료 아닌 속도조절'",
+      "source": "연합뉴스·매일경제"
+    },
+    {
+      "title": "시장은 벌써 11월을 본다",
+      "source": "매일경제"
+    }
+  ]
+}
