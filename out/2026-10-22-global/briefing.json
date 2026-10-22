@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-22",
+  "edition": "global",
+  "headline": "스페이스X발 훈풍, AI주 랠리 재점화",
+  "issue_title": "One of Your Fuel Bills Is Poised to Be Lower This Year",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 11,
+  "articles": [
+    {
+      "title": "One of Your Fuel Bills Is Poised to Be Lower This Year",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/one-of-your-fuel-bills-is-poised-to-be-lower-this-year-d127eb15?mod=rss_markets_main",
+      "published": "2026-10-22T06:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-16227721"
+      ]
+    },
+    {
+      "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main",
+      "published": "2026-10-22T05:41:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-98241944"
+      ]
+    },
+    {
+      "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
+      "published": "2026-10-22T05:31:00+09:00",
+      "images": []
+    },
+    {
+      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
+      "published": "2026-10-22T04:34:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-69604281"
+      ]
+    },
+    {
+      "title": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
+      "published": "2026-10-22T04:32:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-26925316"
+      ]
+    },
+    {
+      "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+      "published": "2026-10-22T00:06:00+09:00",
+      "images": [
+        "https://www.wsj.com/buyside/content-images/1ad70c45-8a42-4e6a-9d37-3d1abd0f49c0"
+      ]
+    },
+    {
+      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "published": "2026-10-21T22:01:00+09:00",
+      "images": [
+        "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e"
+      ]
+    },
+    {
+      "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+      "published": "2026-10-21T18:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-86073739"
+      ]
+    },
+    {
+      "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94?mod=rss_markets_main",
+      "published": "2026-10-21T11:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-45604595"
+      ]
+    },
+    {
+      "title": "The late Perry Mehrling explained the hierarchy of money",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+      "published": "2026-10-21T03:32:09+09:00",
+      "images": []
+    },
+    {
+      "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+      "published": "2026-10-20T03:11:37+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "스페이스X 실적에 뉴욕증시 급등",
+      "source": "WSJ"
+    },
+    {
+      "title": "AI 수익성 불안이 랠리로 바뀐 이유",
+      "source": "WSJ"
+    },
+    {
+      "title": "나스닥, 금요일 낙폭 대부분 되돌려",
+      "source": "WSJ"
+    },
+    {
+      "title": "이제는 ‘컴퓨트’ 가격에 베팅하는 시대로",
+      "source": "WSJ"
+    }
+  ]
+}
