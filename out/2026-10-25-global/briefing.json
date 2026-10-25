@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-25",
+  "edition": "global",
+  "headline": "제트블루 채권단, 비상 자문단 소집",
+  "issue_title": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?mod=rss_markets_main",
+      "published": "2026-10-25T09:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-61989903"
+      ]
+    },
+    {
+      "title": "How Expensive is Gasoline Where You Live?",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/how-expensive-is-gasoline-where-you-live-4acc6026?mod=rss_markets_main",
+      "published": "2026-10-25T02:19:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-65667547"
+      ]
+    },
+    {
+      "title": "JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42?mod=rss_markets_main",
+      "published": "2026-10-24T11:35:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-85669502"
+      ]
+    },
+    {
+      "title": "Sam Bankman-Fried says he has paid his debts",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+      "published": "2026-10-23T00:51:39+09:00",
+      "images": []
+    },
+    {
+      "title": "New research tries to defuse the “China shock”",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+      "published": "2026-10-22T18:12:40+09:00",
+      "images": []
+    },
+    {
+      "title": "AI compute is the new oil—and needs a new market",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "published": "2026-10-22T18:07:29+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "채권단, 자문사 선임 나서",
+      "source": "WSJ"
+    },
+    {
+      "title": "자문사 선임이 의미하는 것",
+      "source": "WSJ"
+    },
+    {
+      "title": "주가·채권값 동반 하락",
+      "source": "WSJ"
+    },
+    {
+      "title": "다음 수순은 채권단 협상",
+      "source": "WSJ"
+    }
+  ]
+}
