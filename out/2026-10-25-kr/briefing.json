@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-25",
+  "edition": "kr",
+  "headline": "한국 경상흑자, 독일·일본 합계 첫 추월",
+  "issue_title": "\"일본·독일도 한국 밑\"…반도체 호황에 경상수지 '세계 2위'",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "\"일본·독일도 한국 밑\"…반도체 호황에 경상수지 '세계 2위'",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202610253648i",
+      "published": "2026-10-25T18:43:53+09:00",
+      "images": []
+    },
+    {
+      "title": "한국 '獨+日'도 제쳤다 … 경상흑자 세계 2위로",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12185244",
+      "published": "2026-10-25T17:34:33+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/26/20261026_01160110000004_S00.jpg"
+      ]
+    },
+    {
+      "title": "한국 경상흑자, '제조업 강국' 독일·일본 합계 사상 첫 추월",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026102529767",
+      "published": "2026-10-25T09:39:52+09:00",
+      "images": []
+    },
+    {
+      "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261024050300002",
+      "published": "2026-10-25T05:45:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100109810005100_P2.jpg",
+        "https://img.yna.co.kr/photo/cms/2019/07/03/35/PCM20190703000135990_P2.jpg",
+        "https://img.yna.co.kr/photo/cms/2026/06/22/81/PCM20260622000081990_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "경상흑자, 독일+일본 합계 넘었다",
+      "source": "한국은행·매일경제"
+    },
+    {
+      "title": "반도체 수출 호황이 밀어올렸다",
+      "source": "매일경제"
+    },
+    {
+      "title": "대통령 \"한국, 세계경제 선도국가\"",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "반도체 쏠림, 지속 가능할까",
+      "source": "한국경제·연합뉴스"
+    }
+  ]
+}
