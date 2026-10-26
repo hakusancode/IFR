@@ -116,5 +116,17 @@
     "credit": "Federalreserve (Wikimedia Commons, Public domain)",
     "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Kevin_M._Warsh_(cropped).jpg",
     "license": "Public domain"
+  },
+  "macron": {
+    "name": "에마뉘엘 마크롱",
+    "aliases": [
+      "마크롱",
+      "프랑스 대통령",
+      "Macron"
+    ],
+    "file": "macron.jpg",
+    "credit": "Government of North Macedonia (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2021.jpg",
+    "license": "CC0"
   }
 }
