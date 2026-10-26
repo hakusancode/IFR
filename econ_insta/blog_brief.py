@@ -348,7 +348,7 @@ def render_blog(
 
 
 # 인스타는 image_url을 자기 서버에서 가져가므로 커밋·push 후에야 발행할 수 있다.
-RAW_BASE = "https://raw.githubusercontent.com/hakusancode/econ-insta/main"
+RAW_BASE = "https://raw.githubusercontent.com/hakusancode/IFR/main"
 
 
 def publish_rendered(out_dir: Path) -> int:

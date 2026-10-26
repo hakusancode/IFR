@@ -35,7 +35,7 @@ from PIL import Image
 from .config import PROJECT_ROOT
 
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/econ-insta)"
+USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/IFR)"
 TIMEOUT = 30
 RETRIES = 3
 BACKOFF_SECONDS = 2.0

@@ -338,7 +338,7 @@ from . import renderer
 
 # raw.githubusercontent.com은 push 직후 못 쓴다(실측) — 우리 GET은 200인데 메타 서버가
 # 가져갈 땐 아직 CDN에 없어 9004/2207052로 실패한다. 잠시 뒤 재시도하면 그대로 성공한다.
-RAW_BASE = "https://raw.githubusercontent.com/hakusancode/econ-insta/main"
+RAW_BASE = "https://raw.githubusercontent.com/hakusancode/IFR/main"
 PUBLISH_ATTEMPTS = 6
 PUBLISH_DELAY_SECONDS = 20.0
 RETRYABLE_MARKERS = ("9004", "2207052")

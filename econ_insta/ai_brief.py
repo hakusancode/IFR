@@ -456,7 +456,7 @@ def load_briefing(out_dir: Path) -> AIBriefing:
     )
 
 
-RAW_BASE = "https://raw.githubusercontent.com/hakusancode/econ-insta/main"
+RAW_BASE = "https://raw.githubusercontent.com/hakusancode/IFR/main"
 
 
 def publish_rendered(out_dir: Path) -> int:

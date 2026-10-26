@@ -43,7 +43,7 @@ PEOPLE_DIR = PROJECT_ROOT / "assets" / "people"
 PEOPLE_META = PEOPLE_DIR / "people.json"
 
 UNSPLASH_API = "https://api.unsplash.com"
-USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/econ-insta)"
+USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/IFR)"
 
 
 class BackgroundError(RuntimeError):

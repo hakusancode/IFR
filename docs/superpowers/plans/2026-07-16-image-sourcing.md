@@ -690,7 +690,7 @@ from .issues import Issue
 TIMEOUT = 30
 RETRIES = 3
 MAX_WAIT_SECONDS = 60
-USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/econ-insta)"
+USER_AGENT = "econ-insta/0.1 (github.com/hakusancode/IFR)"
 
 MIN_SHORT_EDGE = 640
 """1080×1350 표지라 짧은 변이 이보다 작으면 확대할 때 뭉갠다."""
