@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-26",
+  "edition": "global",
+  "headline": "프랑스, 글로벌 금리 폭탄의 최대 피해자",
+  "issue_title": "How France Became the Poster Child for Debt Woes",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 2,
+  "articles": [
+    {
+      "title": "How France Became the Poster Child for Debt Woes",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/world/europe/how-france-became-the-poster-child-for-debt-woes-08c64b3d?mod=rss_markets_main",
+      "published": "2026-10-25T18:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-59267400"
+      ]
+    },
+    {
+      "title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
+      "published": "2026-10-25T10:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-93901767"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "무슨 일: 프랑스가 최대 피해자로",
+      "source": "WSJ"
+    },
+    {
+      "title": "왜: 다른 나라와 같은 문제, 더 심각한 강도",
+      "source": "WSJ"
+    },
+    {
+      "title": "반응: 치솟는 글로벌 국채금리",
+      "source": "WSJ"
+    },
+    {
+      "title": "앞으로: 유럽 재정 불안의 바로미터",
+      "source": "WSJ"
+    }
+  ]
+}
