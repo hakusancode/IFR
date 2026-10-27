@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-27",
+  "edition": "global",
+  "headline": "AI버블 공포 잠재운 앤트로픽 IPO 서류",
+  "issue_title": "Nikkei Rises 1.7%, Led by Chip-Related Stocks",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 7,
+  "articles": [
+    {
+      "title": "Nikkei Rises 1.7%, Led by Chip-Related Stocks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main",
+      "published": "2026-10-27T09:50:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Opinion | Anthropic’s Big IPO Gamble",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_markets_main",
+      "published": "2026-10-27T06:41:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-56997026"
+      ]
+    },
+    {
+      "title": "U.S. Stocks Rise Ahead of Tech Earnings",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-ahead-of-tech-earnings-d53bc5e5?mod=rss_markets_main",
+      "published": "2026-10-27T06:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-83833560"
+      ]
+    },
+    {
+      "title": "Tech Rallies, Brazil Crashes",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/tech-rallies-brazil-crashes-400a468f?mod=rss_markets_main",
+      "published": "2026-10-27T05:29:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-57138329"
+      ]
+    },
+    {
+      "title": "Tech Shares Rally After Anthropic Files for Historic IPO",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+      "published": "2026-10-27T03:53:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-64043826"
+      ]
+    },
+    {
+      "title": "European Indexes Mostly Higher at Open",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-dragged-by-chip-electronics-stocks-eed519a4?mod=rss_markets_main",
+      "published": "2026-10-26T17:33:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Stock Market News, Oct. 26, 2026: Tech Shares Rally After Anthropic Files for Historic IPO",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
+      "published": "2026-10-26T17:24:19+09:00",
+      "images": [
+        "https://images.wsj.net/im-925349"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "앤트로픽, 역대급 IPO 서류 제출",
+      "source": "WSJ"
+    },
+    {
+      "title": "AI버블 우려 가라앉힌 한 장의 서류",
+      "source": "WSJ"
+    },
+    {
+      "title": "뉴욕증시, 기술주 랠리로 상승",
+      "source": "WSJ"
+    },
+    {
+      "title": "인류를 구할까 파괴할까, 베팅 시작",
+      "source": "WSJ"
+    }
+  ]
+}
