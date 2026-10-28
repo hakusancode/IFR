@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-29",
+  "edition": "kr",
+  "headline": "증권·코인·보험까지…해킹 공포 전방위 확산",
+  "issue_title": "대신증권·빗썸 잇단 해킹사태에 긴급회의 연 청와대 “2차 피해 차단에 만전”",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "대신증권·빗썸 잇단 해킹사태에 긴급회의 연 청와대 “2차 피해 차단에 만전”",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12188615",
+      "published": "2026-10-28T17:21:57+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20261028.2ebaf6aebca147f893e289256bb74336_R.png"
+      ]
+    },
+    {
+      "title": "증권사도 뚫렸다…대신증권·미래운용 해킹 사고에 업계 긴장(종합2보)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261028068952008",
+      "published": "2026-10-28T16:14:32+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/10/28/42/PCM20261028000042990_P2.jpg",
+        "https://img.yna.co.kr/photo/cms/2024/07/25/35/PCM20240725000135990_P2.jpg"
+      ]
+    },
+    {
+      "title": "증권사도 뚫렸다…대신증권·미래운용 해킹 사고에 업계 긴장(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261028068951008",
+      "published": "2026-10-28T15:00:52+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/10/28/42/PCM20261028000042990_P2.jpg",
+        "https://img.yna.co.kr/photo/cms/2024/07/25/35/PCM20240725000135990_P2.jpg"
+      ]
+    },
+    {
+      "title": "“주식·코인·보험도 털렸다”…금융권 해킹 줄줄이 추가 확인",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12188131",
+      "published": "2026-10-28T09:45:46+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20261028.149561adda254d95aaa3412265573927_R.png"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "대신증권·미래에셋도 뚫렸다",
+      "source": "매일경제·연합뉴스"
+    },
+    {
+      "title": "은행 넘어 전 금융권으로",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "청와대·금감원 긴급 대응",
+      "source": "매일경제"
+    },
+    {
+      "title": "스미싱·보이스피싱 경계령",
+      "source": "매일경제"
+    }
+  ]
+}
