@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-28",
+  "edition": "global",
+  "headline": "앤트로픽 랠리, 나스닥 이틀째 질주",
+  "issue_title": "Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-diplomatic-efforts-to-ease-u-s-iran-hostilities-c235ed0a?mod=rss_markets_main",
+      "published": "2026-10-28T04:49:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-98085986"
+      ]
+    },
+    {
+      "title": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
+      "published": "2026-10-28T03:29:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-81550448"
+      ]
+    },
+    {
+      "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
+      "published": "2026-10-28T03:09:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-21977523"
+      ]
+    },
+    {
+      "title": "General Motors Moving Stock Listing to Nasdaq From NYSE",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
+      "published": "2026-10-27T23:54:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-06514872"
+      ]
+    },
+    {
+      "title": "Janus Launches First Tokenized Fund Licensing the Nasdaq-100 Index",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/janus-launches-first-tokenized-fund-licensing-the-nasdaq-100-index-5af1cf65?mod=rss_markets_main",
+      "published": "2026-10-27T21:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-67456078"
+      ]
+    },
+    {
+      "title": "HSBC Profit Growth Misses, Plans $1 Billion Buyback",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main",
+      "published": "2026-10-27T15:21:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-58053361"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "테크주 랠리, 이틀째 이어지다",
+      "source": "WSJ"
+    },
+    {
+      "title": "앤트로픽 모멘텀이 시장을 끌었다",
+      "source": "WSJ"
+    },
+    {
+      "title": "나스닥으로 몰리는 대형 이름들",
+      "source": "WSJ"
+    },
+    {
+      "title": "다음 변수는 중동과 상장 이동 러시",
+      "source": "WSJ"
+    }
+  ]
+}
