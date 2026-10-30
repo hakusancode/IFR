@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-31",
+  "edition": "kr",
+  "headline": "반도체·차 쌍끌이, 생산 15년6개월 최대",
+  "issue_title": "반도체·車 쌍끌이…생산 15년새 최대 '껑충'",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "반도체·車 쌍끌이…생산 15년새 최대 '껑충'",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12191774",
+      "published": "2026-10-30T17:40:44+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/31/20261031_01160111000001_L00.jpg"
+      ]
+    },
+    {
+      "title": "10월 D램 가격 5.8%↑…낸드는 21개월 연속 상승세 멈춰",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261030141900003",
+      "published": "2026-10-30T16:27:33+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/05/01/PYH2026050106720001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "반도체·車가 이끈 트리플 증가…생산, 15년6개월만에 최대↑(종합2보)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261030021452002",
+      "published": "2026-10-30T10:44:32+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100109800005100_P2.jpg",
+        "https://img.yna.co.kr/etc/graphic/YH/2026/10/30/GYH2026103000010004400_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/30/PYH2026103002290001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261030063500011",
+      "published": "2026-10-30T10:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/01/PYH2026100109800005100_P2.jpg"
+      ]
+    },
+    {
+      "title": "시중 은행들 ‘이자장사’ 폭 줄이는데…인뱅은 예대금리차 늘렸다",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12191272",
+      "published": "2026-10-30T10:21:49+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20260505.c962aaae14784b1bb8d111c6a4c17465_R.png"
+      ]
+    },
+    {
+      "title": "[속보] 9월 생산 3.0%↑, 소비 3.6%↑, 투자 5.3%↑…트리플 증가",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12191140",
+      "published": "2026-10-30T08:03:45+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202610/30/news-p.v1.20261030.d9ef8f9f6ae74f5c82963040ee6a5c20_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "생산·소비·투자 석 달 만에 트리플 증가",
+      "source": "매일경제·연합뉴스"
+    },
+    {
+      "title": "D램 역대 최고가, 공급 제약 지속",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "낸드는 21개월 만에 상승 멈춰",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "호황 속 불균형 신호도 감지",
+      "source": "매일경제·연합뉴스"
+    }
+  ]
+}
