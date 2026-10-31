@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-01",
+  "edition": "kr",
+  "headline": "24주 하락 기름값, 반등 신호 켜지나",
+  "issue_title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 2,
+  "articles": [
+    {
+      "title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026103173397",
+      "published": "2026-10-31T08:44:15+09:00",
+      "images": []
+    },
+    {
+      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261030076700003",
+      "published": "2026-10-31T06:05:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/25/PYH2026102503690001300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "기름값, 24주째 내리막",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "국제유가 들썩, 조짐 변화",
+      "source": "한국경제"
+    },
+    {
+      "title": "\"더 오르기 전에 넣자\"",
+      "source": "한국경제"
+    },
+    {
+      "title": "다음 주 기름값이 분수령",
+      "source": "연합뉴스·한국경제"
+    }
+  ]
+}
