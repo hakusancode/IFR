@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-02",
+  "edition": "kr",
+  "headline": "대출 부실 경고등, 9년반 만의 적신호",
+  "issue_title": "5대 은행 대출 연체율, 9년 반 만에 '최고'",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "5대 은행 대출 연체율, 9년 반 만에 '최고'",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026110186121",
+      "published": "2026-11-01T18:18:20+09:00",
+      "images": []
+    },
+    {
+      "title": "예금보다 더 높은 수익 좇아… 은행 연금·신탁에 50조 몰려",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12192935",
+      "published": "2026-11-01T17:36:50+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/02/20261102_01110108000006_S00.jpg"
+      ]
+    },
+    {
+      "title": "중소기업 대출 연체율 9년 반 만에 최고",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611018298i",
+      "published": "2026-11-01T14:43:12+09:00",
+      "images": []
+    },
+    {
+      "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261031044700002",
+      "published": "2026-11-01T05:47:02+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/07/22/PYH2026072208060001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "3분기 은행 중기 대출 등 연체율 '빨간불'…9년 반만에 최고",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261031045300002",
+      "published": "2026-11-01T05:47:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/25/PYH2026102505950001300_P2.jpg",
+        "https://img.yna.co.kr/photo/cms/2023/01/25/63/PCM20230125000063990_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "5대 은행 연체율, 9년 반 만에 최고치",
+      "source": "한국경제·연합뉴스"
+    },
+    {
+      "title": "금리 인상기, 커지는 상환 부담",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "그 와중에 은행 연금·신탁엔 자금 몰려",
+      "source": "매일경제"
+    },
+    {
+      "title": "부실 확산 속도가 관전 포인트",
+      "source": "한국경제·연합뉴스"
+    }
+  ]
+}
