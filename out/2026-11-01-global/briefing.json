@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-01",
+  "edition": "global",
+  "headline": "AI 베팅 식는다, 월가도 보험 든다",
+  "issue_title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
+      "published": "2026-11-01T09:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-76627623"
+      ]
+    },
+    {
+      "title": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/politics/elections/prediction-markets-keep-whiffing-on-elections-will-they-miss-on-the-midterms-9809c8c9?mod=rss_markets_main",
+      "published": "2026-10-31T23:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-22108346"
+      ]
+    },
+    {
+      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+      "published": "2026-10-31T12:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-64866198"
+      ]
+    },
+    {
+      "title": "The never-ending absurdity of global oil markets",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+      "published": "2026-10-29T20:16:13+09:00",
+      "images": []
+    },
+    {
+      "title": "The task facing the new head of India’s biggest private bank",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
+      "published": "2026-10-29T19:06:28+09:00",
+      "images": []
+    },
+    {
+      "title": "Ignore AI and ask for that pay rise",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
+      "published": "2026-10-29T18:47:49+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "AI 베팅에 보험 수요 폭증",
+      "source": "WSJ"
+    },
+    {
+      "title": "월가, 대출 조건 깐깐해져",
+      "source": "WSJ"
+    },
+    {
+      "title": "뉴욕증시·국내증시 동반 급락",
+      "source": "시장지표"
+    },
+    {
+      "title": "예측시장 신뢰도도 도마에",
+      "source": "WSJ"
+    }
+  ]
+}
