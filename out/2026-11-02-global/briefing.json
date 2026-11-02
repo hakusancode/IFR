@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-02",
+  "edition": "global",
+  "headline": "AI 베팅 역풍, 기술주 뒤흔들다",
+  "issue_title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
+      "published": "2026-11-02T03:54:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-13634380"
+      ]
+    },
+    {
+      "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/a-sports-bet-by-any-other-name-is-still-a-bet-c75ad5ff?mod=rss_markets_main",
+      "published": "2026-11-02T01:32:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-31784401"
+      ]
+    },
+    {
+      "title": "Intensive parenting is no longer the preserve of the rich",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+      "published": "2026-11-02T01:08:43+09:00",
+      "images": []
+    },
+    {
+      "title": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main",
+      "published": "2026-11-01T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-46202084"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "AI 베팅 구조, 다시 불거진 위험",
+      "source": "WSJ"
+    },
+    {
+      "title": "빚으로 쌓아올린 AI 성장",
+      "source": "WSJ"
+    },
+    {
+      "title": "뉴욕증시, AI 피로감에 흔들려",
+      "source": "WSJ"
+    },
+    {
+      "title": "다음 변곡점은 어디서",
+      "source": "WSJ"
+    }
+  ]
+}
