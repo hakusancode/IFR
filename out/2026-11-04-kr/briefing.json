@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-04",
+  "edition": "kr",
+  "headline": "AI 수익성 불안에도 코스피는 올랐다?",
+  "issue_title": "AI 관련 투자자들, 美 중간선거 텍사스주 결과에 주목하는 이유",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "AI 관련 투자자들, 美 중간선거 텍사스주 결과에 주목하는 이유",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611033976i",
+      "published": "2026-11-03T22:09:27+09:00",
+      "images": []
+    },
+    {
+      "title": "\"민주당 압승시 AI주 하락하면 사라\"…JP모건, 중간선거 투자전략",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611033874i",
+      "published": "2026-11-03T19:11:11+09:00",
+      "images": []
+    },
+    {
+      "title": "AI 수익성 우려에 짓눌린 증시, 美중간선거 시나리오별 영향은?(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261103085151008",
+      "published": "2026-11-03T15:39:45+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/ap/2026/06/26/PAP20260626286701009_P2.jpg"
+      ]
+    },
+    {
+      "title": "AI 수익성 우려에 짓눌린 증시, 美중간선거 시나리오별 영향은?",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261103085100008",
+      "published": "2026-11-03T11:23:19+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/ap/2026/06/26/PAP20260626286701009_P2.jpg"
+      ]
+    },
+    {
+      "title": "‘착한 정책’이 세금도둑 된다?…‘깐깐함’이 필요한 이유 [이재철 칼럼]",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12194486",
+      "published": "2026-11-03T11:11:47+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/03/news-p.v1.20261103.75d972b5c189463e82f0095849e6d76c_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "AI 거품론에 흔들린 증시",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "텍사스가 변수인 이유",
+      "source": "한국경제"
+    },
+    {
+      "title": "JP모건 ",
+      "source": "한국경제"
+    },
+    {
+      "title": "시나리오별 증시 영향 주목",
+      "source": "연합뉴스"
+    }
+  ]
+}
