@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-05",
+  "edition": "kr",
+  "headline": "코스피, 널뛰기 장세 외국인은 등 돌렸다",
+  "issue_title": "급등과 급락 반복한 코스피…무엇이 흔들었나 [Visual]",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "급등과 급락 반복한 코스피…무엇이 흔들었나 [Visual]",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/stock/12196891",
+      "published": "2026-11-04T20:46:56+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/04/news-p.v1.20261103.ac2b378aaaac4d2284c55cf2748037f8_R.png"
+      ]
+    },
+    {
+      "title": "[속보] 코스피, 롤러코스터 장세 끝에 0.62% 상승 마감",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261104132600008",
+      "published": "2026-11-04T15:33:39+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110415330001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "씨티 \"환율, 6∼12개월 내 1,270원으로 하락 전망\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261104131300002",
+      "published": "2026-11-04T15:32:34+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2025/04/18/06/PCM20250418000006990_P2.jpg"
+      ]
+    },
+    {
+      "title": "외국인 매도확대에 코스피 출렁…7개월째 '팔자' 외국인 복귀 언제쯤",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261104102100008",
+      "published": "2026-11-04T14:22:46+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2019/12/12/27/PCM20191212000327990_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "급등락 반복한 코스피, 결국 숨고르기",
+      "source": "매일경제·연합뉴스"
+    },
+    {
+      "title": "외국인 7개월째 '팔자' 행진",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "롤러코스터 끝에 가까스로 상승 마감",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "환율은 하락 전망, 배당금 송금이 변수",
+      "source": "연합뉴스"
+    }
+  ]
+}
