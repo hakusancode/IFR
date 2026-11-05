@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-06",
+  "edition": "kr",
+  "headline": "코인 과세, 네번째 미뤄졌다…2029년",
+  "issue_title": "가상자산 과세 4번째 유예…2029년 시행",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 8,
+  "articles": [
+    {
+      "title": "가상자산 과세 4번째 유예…2029년 시행",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12198741",
+      "published": "2026-11-05T17:40:00+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/06/20261106_01170101000001_M00.jpg"
+      ]
+    },
+    {
+      "title": "2029년부터 코인 손해·이익 합산해 과세",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12198737",
+      "published": "2026-11-05T17:39:48+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/06/20261106_01110110000009_L00.jpg"
+      ]
+    },
+    {
+      "title": "가상자산 과세 4번째 유예…2029년부터 시행",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026110590561",
+      "published": "2026-11-05T17:30:53+09:00",
+      "images": []
+    },
+    {
+      "title": "[속보] 정부 “가상자산 과세 2년 늦춰 2029년부터…손실 3년 이월공제”",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12198438",
+      "published": "2026-11-05T16:03:58+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.a4bd2ad5199640d6a2416e804ffb2058_R.png"
+      ]
+    },
+    {
+      "title": "가상자산 과세 4번째 유예…\"2년 미뤄 2029년 시행\"",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611058700i",
+      "published": "2026-11-05T16:02:58+09:00",
+      "images": []
+    },
+    {
+      "title": "한숨 돌린 가상자산 업계…'과세 기준·인프라 정비' 기대",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261105121600002",
+      "published": "2026-11-05T16:00:59+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/26/PYH2026102606390001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "4번째 미뤄진 코인 과세…부동산 이어 조세정책 또 수정",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261105125500002",
+      "published": "2026-11-05T16:00:13+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102802560001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/09/01/PYH2026090115240001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12197430",
+      "published": "2026-11-05T05:59:10+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261104.5444c8412570416a9550310ee666cb44_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "가상자산 과세 또 연기",
+      "source": "매일경제·한국경제"
+    },
+    {
+      "title": "손실 나도 세금? 반대 여론 컸다",
+      "source": "매일경제"
+    },
+    {
+      "title": "제도 손질, 손실 이월공제 도입",
+      "source": "매일경제"
+    },
+    {
+      "title": "다음 시행도 지켜질까",
+      "source": "매일경제·한국경제"
+    }
+  ]
+}
