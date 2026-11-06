@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-06",
+  "edition": "global",
+  "headline": "선거 충격파, AI 밸류에이션 흔들다",
+  "issue_title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 9,
+  "articles": [
+    {
+      "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/how-to-keep-these-wild-market-moves-from-hijacking-your-financial-future-71ecb216?mod=rss_markets_main",
+      "published": "2026-11-06T09:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-92146819"
+      ]
+    },
+    {
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
+      "published": "2026-11-06T08:17:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-06360346"
+      ]
+    },
+    {
+      "title": "Opinion | Politics Shakes Up the Markets",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/tech-selloff-economy-politics-2e789982?mod=rss_markets_main",
+      "published": "2026-11-06T07:40:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-47691538"
+      ]
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?mod=rss_markets_main",
+      "published": "2026-11-06T06:55:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-03838137"
+      ]
+    },
+    {
+      "title": "Oil Futures Recover Some Lost Ground",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
+      "published": "2026-11-06T05:55:00+09:00",
+      "images": []
+    },
+    {
+      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "published": "2026-11-05T23:12:00+09:00",
+      "images": [
+        "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e"
+      ]
+    },
+    {
+      "title": "Indebted tycoons haunt China’s banking system",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+      "published": "2026-11-05T20:54:22+09:00",
+      "images": []
+    },
+    {
+      "title": "How the Data Center Backlash Could Play Into the Hands of Big Tech",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/tech/ai/how-the-data-center-backlash-could-play-into-the-hands-of-big-tech-a37dfb29?mod=rss_markets_main",
+      "published": "2026-11-05T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-96204150"
+      ]
+    },
+    {
+      "title": "Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5%; Investors Retreat From AI Trade After Election",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
+      "published": "2026-11-05T18:25:53+09:00",
+      "images": [
+        "https://images.wsj.net/im-925349"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "중간선거 후 증시 출렁, 앤스로픽 논란",
+      "source": "WSJ"
+    },
+    {
+      "title": "정치가 시장을 흔들다",
+      "source": "WSJ"
+    },
+    {
+      "title": "유가는 일부 반등",
+      "source": "WSJ"
+    },
+    {
+      "title": "흔들려도 원칙을 지켜라",
+      "source": "WSJ"
+    }
+  ]
+}
