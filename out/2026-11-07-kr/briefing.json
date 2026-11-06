@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-07",
+  "edition": "kr",
+  "headline": "코스피 5000선 붕괴…개미들 비명",
+  "issue_title": "\"울고 싶다\" \"퇴직연금 넣었는데 녹아내려\"…개미들 패닉(종합)",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "\"울고 싶다\" \"퇴직연금 넣었는데 녹아내려\"…개미들 패닉(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261106060751008",
+      "published": "2026-11-06T15:59:22+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110612470001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110603170001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261106060700008",
+      "published": "2026-11-06T10:09:53+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110603570001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110603170001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "“노후자금까지 주식에 넣었는데”...코스피 급락하자 다시 예금으로",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12200227",
+      "published": "2026-11-06T09:59:47+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/06/news-p.v1.20260611.8957114a2e744530bffcaff667655a0b_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "장 열리자마자 코스피 5000선 붕괴",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "퇴직연금까지 흔들린 노후자금",
+      "source": "매일경제"
+    },
+    {
+      "title": "\"울고 싶다\" 개미들 패닉 토로",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "안전자산 회귀 조짐…변동성 주시해야",
+      "source": "매일경제·연합뉴스"
+    }
+  ]
+}
