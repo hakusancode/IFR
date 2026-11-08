@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-09",
+  "edition": "kr",
+  "headline": "현대카드 독점, 3년만에 깨진다",
+  "issue_title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
+  "sources": [
+    "매일경제",
+    "한국경제"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12201942",
+      "published": "2026-11-08T19:49:14+09:00",
+      "images": []
+    },
+    {
+      "title": "[단독] 카뱅·토뱅, 애플페이 도입…인터넷은행·카드사 '페이 전쟁'",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026110832081",
+      "published": "2026-11-08T17:29:08+09:00",
+      "images": []
+    },
+    {
+      "title": "[단독] 카뱅·토뱅도 '애플페이' 도입…'현대카드 독점' 3년 만에 깨진다",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611069696i",
+      "published": "2026-11-08T17:00:03+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "카뱅·토뱅 체크카드, 애플페이 등록 임박",
+      "source": "매일경제·한국경제"
+    },
+    {
+      "title": "3년 넘게 이어진 현대카드 독점 구조",
+      "source": "매일경제"
+    },
+    {
+      "title": "인터넷은행·카드사 '페이 전쟁' 본격화",
+      "source": "한국경제"
+    },
+    {
+      "title": "다음 참전자는 누구?",
+      "source": "매일경제·한국경제"
+    }
+  ]
+}
