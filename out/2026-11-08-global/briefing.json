@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-08",
+  "edition": "global",
+  "headline": "AI 랠리, 정치리스크에 흔들리다",
+  "issue_title": "How a Talent War Spelled Doom for the Traditional Law Firm",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "How a Talent War Spelled Doom for the Traditional Law Firm",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/how-a-talent-war-spelled-doom-for-the-traditional-law-firm-1cf2c279?mod=rss_markets_main",
+      "published": "2026-11-08T10:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-81289120"
+      ]
+    },
+    {
+      "title": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?mod=rss_markets_main",
+      "published": "2026-11-08T02:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-72834728"
+      ]
+    },
+    {
+      "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=rss_markets_main",
+      "published": "2026-11-08T00:14:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-94495623"
+      ]
+    },
+    {
+      "title": "Markets realise they hate America’s blue wave",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+      "published": "2026-11-06T08:41:07+09:00",
+      "images": []
+    },
+    {
+      "title": "AI is turning protectionists into free traders",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+      "published": "2026-11-05T19:22:20+09:00",
+      "images": []
+    },
+    {
+      "title": "William Nordhaus, favourite economist of the right and the left",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+      "published": "2026-11-05T19:17:54+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "미국 증시, 블루웨이브 경계령",
+      "source": "The Economist"
+    },
+    {
+      "title": "규제 공포와 기술 예외주의",
+      "source": "The Economist"
+    },
+    {
+      "title": "버크셔도 투자수익 둔화",
+      "source": "WSJ"
+    },
+    {
+      "title": "아시아 증시로 번진 불안",
+      "source": "The Economist·WSJ"
+    }
+  ]
+}
