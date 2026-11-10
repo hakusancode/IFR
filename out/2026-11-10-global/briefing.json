@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-10",
+  "edition": "global",
+  "headline": "엔비디아 자체조사 쇼크, 증시는 오히려 급등",
+  "issue_title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main",
+      "published": "2026-11-10T06:21:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-14427359"
+      ]
+    },
+    {
+      "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+      "published": "2026-11-09T20:13:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-35706523"
+      ]
+    },
+    {
+      "title": "Stock Market News, November 9, 2026: Nvidia Stock Slides After Chip Maker Opens Probe",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026?mod=rss_markets_main",
+      "published": "2026-11-09T18:04:21+09:00",
+      "images": [
+        "https://images.wsj.net/im-925349"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "엔비디아, 자체 조사 착수에 주가 하락",
+      "source": "WSJ"
+    },
+    {
+      "title": "지난주 급락 이후 반등 기류",
+      "source": "WSJ"
+    },
+    {
+      "title": "다우 1100포인트 이상 급등, 나스닥도 반등",
+      "source": "WSJ"
+    },
+    {
+      "title": "조사 결과와 시장 신뢰 회복이 관건",
+      "source": "WSJ"
+    }
+  ]
+}
