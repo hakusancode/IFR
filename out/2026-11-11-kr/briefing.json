@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-11",
+  "edition": "kr",
+  "headline": "블루쓰나미 충격 딛고 코스피 4%대 반등",
+  "issue_title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110157700011",
+      "published": "2026-11-10T18:00:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/10/PYH2026111015810001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "[포토] 코스피·코스닥 4%대 급등 마감",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611108126i",
+      "published": "2026-11-10T16:46:35+09:00",
+      "images": []
+    },
+    {
+      "title": "코스피·코스닥, 4%대 급등 마감…급락딛고 4거래일만 반등(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110131951008",
+      "published": "2026-11-10T16:03:42+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/10/PYH2026111015810001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "코스피·코스닥, 4%대 급등 마감…4거래일만 반등",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110131900008",
+      "published": "2026-11-10T15:36:15+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/10/PYH2026111015420001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110109800011",
+      "published": "2026-11-10T14:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110503560001300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "코스피·코스닥 나란히 4%대 급등 마감",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "미국발 '블루 쓰나미'가 불씨였다",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "데이터센터 수혜주 중심으로 매수세 복귀",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "공포는 진정됐지만 불씨는 여전",
+      "source": "연합뉴스"
+    }
+  ]
+}
