@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-13",
+  "edition": "kr",
+  "headline": "보안원마저 뚫렸다…당국 비상감사 착수",
+  "issue_title": "금감원, AI해킹 탐지시스템 만든다",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 8,
+  "articles": [
+    {
+      "title": "금감원, AI해킹 탐지시스템 만든다",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12206721",
+      "published": "2026-11-12T17:39:57+09:00",
+      "images": []
+    },
+    {
+      "title": "삼성 지원 사격…자율차·로봇용 'AI칩' 8종 만든다",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12206622",
+      "published": "2026-11-12T17:23:24+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/13/20261113_01160113000003_M00.jpg"
+      ]
+    },
+    {
+      "title": "당국, 해킹의심 때 가상자산거래소 입출금 선제 차단 허용",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112141700002",
+      "published": "2026-11-12T16:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110514540001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "가상자산거래소 해킹 의심 땐 입출금 차단",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12206400",
+      "published": "2026-11-12T16:30:00+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261112.8269afd2e7234916a37d580f8dfef85f_R.jpg"
+      ]
+    },
+    {
+      "title": "금융위원회, '해킹 공격' 금융보안원 다음 주 감사 착수",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112145400002",
+      "published": "2026-11-12T16:09:59+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111103370001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "외국인 삼전 사고, 하이닉스 팔고…삼전 0.9%↑·하닉 1.80%↓(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112046051008",
+      "published": "2026-11-12T15:53:17+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/10/29/28/PCM20261029000028990_P2.jpg"
+      ]
+    },
+    {
+      "title": "권오현 \"사이버안보 중요성 커져…중장기 전략 과제로 논의해야\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112123200002",
+      "published": "2026-11-12T14:56:30+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/03/19/44/PCM20260319000144990_P2.jpg"
+      ]
+    },
+    {
+      "title": "주민센터부터 은행까지 '릴레이 사칭' 사기…금감원 소비자경보",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112089500002",
+      "published": "2026-11-12T12:00:02+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/09/21/10/PCM20260921000110011_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112089500002_01_i_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "가상자산거래소, 해킹 의심만 돼도 입출금 차단",
+      "source": "연합뉴스·매일경제"
+    },
+    {
+      "title": "금융보안원마저 뚫린 보안 위협",
+      "source": "매일경제"
+    },
+    {
+      "title": "금융위, 금융보안원 전격 감사 착수",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "가상자산업권 보안 대책 가속화",
+      "source": "매일경제"
+    }
+  ]
+}
