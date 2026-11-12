@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-12",
+  "edition": "global",
+  "headline": "엔비디아 흔드는 CEO 퇴출설",
+  "issue_title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+      "published": "2026-11-12T10:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-33141886"
+      ]
+    },
+    {
+      "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-electronics-stocks-0da84013?mod=rss_markets_main",
+      "published": "2026-11-12T09:26:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Stock Market News, November 11, 2026: Nvidia Stock Slides as Board Considers Ousting CEO",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
+      "published": "2026-11-11T17:21:53+09:00",
+      "images": [
+        "https://images.wsj.net/im-925349"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "엔비디아 주가, 장외서 8% 급락",
+      "source": "WSJ"
+    },
+    {
+      "title": "싱가포르 매출 사라진 메가스피드 미스터리",
+      "source": "WSJ"
+    },
+    {
+      "title": "아시아 전자주, 동반 흔들림",
+      "source": "WSJ"
+    },
+    {
+      "title": "이사회 결정, 다음 관전 포인트",
+      "source": "WSJ"
+    }
+  ]
+}
