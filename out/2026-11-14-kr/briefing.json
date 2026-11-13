@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-14",
+  "edition": "kr",
+  "headline": "젠슨 황 퇴장, 코스피는 롤러코스터였다",
+  "issue_title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113155100011",
+      "published": "2026-11-13T18:00:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/06/08/PYH2026060816370001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "젠슨 황 없는 엔비디아, 韓에 GPU 26만장 약속대로 공급",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026111357627",
+      "published": "2026-11-13T17:36:39+09:00",
+      "images": []
+    },
+    {
+      "title": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113129251008",
+      "published": "2026-11-13T16:23:21+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111312340001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "'전강후약' 코스피, 0.98% 하락 마감…코스닥 0.4%↑",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113129200008",
+      "published": "2026-11-13T15:38:39+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/13/PYH2026111312040001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113104300011",
+      "published": "2026-11-13T14:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113104300011_01_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113062700011",
+      "published": "2026-11-13T10:30:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/13/AKR20261113062700011_01_i_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "엔비디아 CEO 사임, 코스피 출렁",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "GPU 공급은 예정대로",
+      "source": "한국경제"
+    },
+    {
+      "title": "전강후약 장세, 투심 흔들려",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "M&A 활성화 주문한 대통령",
+      "source": "연합뉴스"
+    }
+  ]
+}
