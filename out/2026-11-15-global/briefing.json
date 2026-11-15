@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-15",
+  "edition": "global",
+  "headline": "AI 벼락부자들, 기부자문가 찾는다",
+  "issue_title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 5,
+  "articles": [
+    {
+      "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
+      "published": "2026-11-15T10:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-09378547"
+      ]
+    },
+    {
+      "title": "How Executives Keep Their Private Lives Out of the Public Eye",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/lifestyle/careers/ceo-dating-matchmakers-1765af5f?mod=rss_markets_main",
+      "published": "2026-11-15T09:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-39100326"
+      ]
+    },
+    {
+      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "published": "2026-11-15T05:08:00+09:00",
+      "images": [
+        "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e"
+      ]
+    },
+    {
+      "title": "The return of the snatch-and-grab state",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+      "published": "2026-11-12T19:40:24+09:00",
+      "images": []
+    },
+    {
+      "title": "Where to find the anti-AI trade",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+      "published": "2026-11-12T19:38:28+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "AI 벼락부자들, 기부 도와줄 자문가 찾는다",
+      "source": "WSJ"
+    },
+    {
+      "title": "기부 열망 뒤에 숨은 죄책감",
+      "source": "WSJ"
+    },
+    {
+      "title": "CEO들, 사생활 지키려 전담팀까지",
+      "source": "WSJ"
+    },
+    {
+      "title": "믿을 수탁자 고르기가 관건",
+      "source": "WSJ"
+    }
+  ]
+}
