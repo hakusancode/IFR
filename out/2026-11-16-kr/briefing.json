@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-16",
+  "edition": "kr",
+  "headline": "수석합격 뒤엔 AI가 있었다",
+  "issue_title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261115054200002",
+      "published": "2026-11-15T21:54:18+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/15/PYH2026111503010000401_P2.jpg"
+      ]
+    },
+    {
+      "title": "정부, 올해 국가자격시험 전수조사…세무사 수석 합격취소 추진",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261115050900530",
+      "published": "2026-11-15T20:21:11+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/15/PYH2026111503010000401_P2.jpg",
+        "https://img.yna.co.kr/etc/graphic/YH/2026/11/15/GYH2026111500010004400_P2.jpg"
+      ]
+    },
+    {
+      "title": "\"AI로 세무사 수석 합격\" 충격 자백…정부 결국 '칼 빼들었다'",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611157276i",
+      "published": "2026-11-15T15:07:09+09:00",
+      "images": []
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261115030400011",
+      "published": "2026-11-15T15:00:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/15/PYH2026111503010000401_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "세무사 수석합격자, AI 부정행위 자백",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "고득점이 부른 의혹, 결국 자백으로",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "정부, 전수조사·효력정지 논의 착수",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "세무사회 \"AI 없는 평가로 걸러낸다\"",
+      "source": "연합뉴스"
+    }
+  ]
+}
