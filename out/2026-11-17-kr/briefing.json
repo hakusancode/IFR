@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-17",
+  "edition": "kr",
+  "headline": "AI 빅위크 앞두고 뉴욕·서울 증시 출렁",
+  "issue_title": "AI 칩 中 수출 허용한 트럼프, 엔비디아 주식보유액 10배~100배 늘어",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "AI 칩 中 수출 허용한 트럼프, 엔비디아 주식보유액 10배~100배 늘어",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611160497i",
+      "published": "2026-11-16T23:21:44+09:00",
+      "images": []
+    },
+    {
+      "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261116113751008",
+      "published": "2026-11-16T16:13:49+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111615160001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261116113700008",
+      "published": "2026-11-16T15:05:55+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111602850001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "인천 수출 8개월 연속 증가…수입도 늘어 무역수지는 적자",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261116116300065",
+      "published": "2026-11-16T14:53:22+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2025/05/28/PYH2025052808610006500_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "코스피 3%대 급락, 5,100선 붕괴",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "트럼프발 변수까지 겹친 AI 경계감",
+      "source": "한국경제"
+    },
+    {
+      "title": "뉴욕증시도 동반 약세",
+      "source": "지표 종합"
+    },
+    {
+      "title": "엔비디아 실적 발표가 다음 분수령",
+      "source": "연합뉴스"
+    }
+  ]
+}
