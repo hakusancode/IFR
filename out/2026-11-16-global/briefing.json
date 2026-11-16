@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-16",
+  "edition": "global",
+  "headline": "AI 거품 경고, 아시아 증시 강타하다",
+  "issue_title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 8,
+  "articles": [
+    {
+      "title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?mod=rss_markets_main",
+      "published": "2026-11-16T11:05:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-99169537"
+      ]
+    },
+    {
+      "title": "The Month That Rocked the AI Trade and Rewired Wall Street",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
+      "published": "2026-11-16T11:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-37610444"
+      ]
+    },
+    {
+      "title": "Nikkei Falls 0.1%, Dragged by Electronics, Metals Stocks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-1-dragged-by-electronics-metals-stocks-258e75e8?mod=rss_markets_main",
+      "published": "2026-11-16T10:06:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main",
+      "published": "2026-11-16T09:46:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+      "published": "2026-11-16T09:07:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Opinion | What’s Really Behind Data Center Backlash",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/whats-really-behind-data-center-backlash-2157f445?mod=rss_markets_main",
+      "published": "2026-11-16T02:54:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-47220115"
+      ]
+    },
+    {
+      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+      "published": "2026-11-15T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-72398495"
+      ]
+    },
+    {
+      "title": "The SpaceX IPO Had Musk’s Star Power. Anthropic’s Has FOMO.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+      "published": "2026-11-15T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-49142809"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "미국 반도체주 급락, 아시아로 번지다",
+      "source": "WSJ"
+    },
+    {
+      "title": "한 달간 AI 투자 신화가 흔들렸다",
+      "source": "WSJ"
+    },
+    {
+      "title": "위험회피 심리에 아시아 통화도 눌려",
+      "source": "WSJ"
+    },
+    {
+      "title": "다음 관전 포인트는 공급과잉과 유가",
+      "source": "WSJ"
+    }
+  ]
+}
