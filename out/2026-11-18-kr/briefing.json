@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-18",
+  "edition": "kr",
+  "headline": "코스피 5000선, 결국 무너졌다",
+  "issue_title": "[포토] 코스피, 9개월여 만에 최저로 하락",
+  "sources": [
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "[포토] 코스피, 9개월여 만에 최저로 하락",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611172569i",
+      "published": "2026-11-17T17:01:04+09:00",
+      "images": []
+    },
+    {
+      "title": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합)",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261117065451008",
+      "published": "2026-11-17T16:33:51+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111716180001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "'5천피' 붕괴…코스피, 9개월여 만에 최저 수준",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261117128500008",
+      "published": "2026-11-17T15:36:41+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111715460001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261117077700008",
+      "published": "2026-11-17T11:25:51+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111703200001300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "4거래일 연속 하락, 5000선 내줘",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "젠슨황·앤트로픽·금리까지 겹쳤다",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "장중 내내 5000선 사수 공방",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "반등 신호 아직 안 보여",
+      "source": "연합뉴스"
+    }
+  ]
+}
