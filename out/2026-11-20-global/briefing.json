@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-20",
+  "edition": "global",
+  "headline": "AI 거품 속 사상 최대 IPO 터졌다",
+  "issue_title": "Anthropic’s IPO Mints New Millionaires",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "Anthropic’s IPO Mints New Millionaires",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
+      "published": "2026-11-20T07:41:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-29708872"
+      ]
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+      "published": "2026-11-20T06:56:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-16030868"
+      ]
+    },
+    {
+      "title": "The Bond Market’s Surprising Take on the AI Trade",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+      "published": "2026-11-19T20:26:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-14120486"
+      ]
+    },
+    {
+      "title": "Anthropic Raises $81 Billion in Biggest IPO Ever",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main",
+      "published": "2026-11-19T13:19:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-54794317"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "앤스로픽, 사상 최대 규모 IPO 단행",
+      "source": "WSJ"
+    },
+    {
+      "title": "엔비디아발 불안에도 흔들리지 않은 투자심리",
+      "source": "WSJ"
+    },
+    {
+      "title": "IPO 흥행에도 미국 증시는 뒷걸음질",
+      "source": "WSJ"
+    },
+    {
+      "title": "오늘 코스피 급락, 불안 전염 신호인가",
+      "source": "WSJ"
+    }
+  ]
+}
