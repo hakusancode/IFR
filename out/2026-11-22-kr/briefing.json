@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-22",
+  "edition": "kr",
+  "headline": "AI 커닝 비상…국가시험장에 장관이떴다",
+  "issue_title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+  "sources": [
+    "연합뉴스"
+  ],
+  "article_count": 2,
+  "articles": [
+    {
+      "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261121023800530",
+      "published": "2026-11-21T10:12:05+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121023800530_01_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112102140001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "[AI돋보기] 해킹에 커닝까지…AI의 역습에 한국 사회 비상",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261119149900017",
+      "published": "2026-11-21T06:33:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119149900017_01_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111710040001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111914970001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111613000005300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "노동장관, 국가자격시험 현장 급거 점검",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "챗GPT 4년, 편리함 뒤의 역습",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "정부, '사회 비상'으로 받아들였다",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "다음 시험은 안전할까",
+      "source": "연합뉴스"
+    }
+  ]
+}
