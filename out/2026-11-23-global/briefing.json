@@ -1,19 +1,78 @@
 {
   "date": "2026-11-23",
   "edition": "global",
-  "headline": "AI 거품, 닷컴버블 데자뷔 오나",
-  "issue_title": "How much more air can come out of the AI trade?",
+  "headline": "앤스로픽 9000억달러 베팅, 정크본드 공포",
+  "issue_title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
   "sources": [
     "The Economist",
     "WSJ"
   ],
-  "article_count": 4,
+  "article_count": 10,
   "articles": [
+    {
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "published": "2026-11-23T12:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-41873370"
+      ]
+    },
+    {
+      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
+      "published": "2026-11-23T11:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-59320334"
+      ]
+    },
+    {
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "published": "2026-11-23T11:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-73215617"
+      ]
+    },
+    {
+      "title": "Some Underperforming Japan Stocks May Start Rising After Strong Results",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+      "published": "2026-11-23T10:05:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Opinion | How to Kill a Bull Market",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
+      "published": "2026-11-23T07:01:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-68182124"
+      ]
+    },
     {
       "title": "How much more air can come out of the AI trade?",
       "source": "The Economist",
       "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
       "published": "2026-11-23T04:44:21+09:00",
+      "images": []
+    },
+    {
+      "title": "Opinion | Give Thanks to Inverse Billionaires",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/opinion/give-thanks-to-inverse-billionaires-0a839607?mod=rss_markets_main",
+      "published": "2026-11-23T02:58:00+09:00",
+      "images": [
+        "https://opinion-images.wsj.net/im-58356127"
+      ]
+    },
+    {
+      "title": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+      "published": "2026-11-22T20:13:42+09:00",
       "images": []
     },
     {
@@ -23,15 +82,6 @@
       "published": "2026-11-22T19:30:00+09:00",
       "images": [
         "https://images.wsj.net/im-18367316"
-      ]
-    },
-    {
-      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
-      "source": "WSJ",
-      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
-      "published": "2026-11-22T19:30:00+09:00",
-      "images": [
-        "https://images.wsj.net/im-34867808"
       ]
     },
     {
@@ -46,19 +96,19 @@
   ],
   "cards": [
     {
-      "title": "뉴욕발 AI주 투매, 전세계로 확산",
-      "source": "The Economist·WSJ"
-    },
-    {
-      "title": "닷컴버블과 닮은꼴이라는 경고",
+      "title": "무슨 일: 9000억 달러 베팅의 역설",
       "source": "WSJ"
     },
     {
-      "title": "시장은 왜 불안해하나",
-      "source": "The Economist"
+      "title": "왜: 요동친 상장 이후의 그림자",
+      "source": "WSJ"
     },
     {
-      "title": "조정의 깊이는 정치권 손에",
+      "title": "반응: 정치가 랠리의 생사를 쥐다",
+      "source": "WSJ"
+    },
+    {
+      "title": "앞으로: 신용등급이 가를 다음 국면",
       "source": "WSJ"
     }
   ]
