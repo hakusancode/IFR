@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-23",
+  "edition": "global",
+  "headline": "AI 거품, 닷컴버블 데자뷔 오나",
+  "issue_title": "How much more air can come out of the AI trade?",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "How much more air can come out of the AI trade?",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+      "published": "2026-11-23T04:44:21+09:00",
+      "images": []
+    },
+    {
+      "title": "Has the AI Bubble Already Burst?",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
+      "published": "2026-11-22T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-18367316"
+      ]
+    },
+    {
+      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+      "published": "2026-11-22T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-34867808"
+      ]
+    },
+    {
+      "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main",
+      "published": "2026-11-22T19:00:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-53330246"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "뉴욕발 AI주 투매, 전세계로 확산",
+      "source": "The Economist·WSJ"
+    },
+    {
+      "title": "닷컴버블과 닮은꼴이라는 경고",
+      "source": "WSJ"
+    },
+    {
+      "title": "시장은 왜 불안해하나",
+      "source": "The Economist"
+    },
+    {
+      "title": "조정의 깊이는 정치권 손에",
+      "source": "WSJ"
+    }
+  ]
+}
