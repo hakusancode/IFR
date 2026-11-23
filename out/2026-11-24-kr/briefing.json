@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-24",
+  "edition": "kr",
+  "headline": "사상 첫 수출 1조달러, 이면의 그림자",
+  "issue_title": "수출 1조달러 위업 이뤄낸 한국…코스피 우(憂) 범하지 않으려면 [기자24시]",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 4,
+  "articles": [
+    {
+      "title": "수출 1조달러 위업 이뤄낸 한국…코스피 우(憂) 범하지 않으려면 [기자24시]",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12216435",
+      "published": "2026-11-23T17:54:47+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/23/news-p.v1.20260521.67cd32573f284f20a6f06e056ef5ea0d_R.jpg"
+      ]
+    },
+    {
+      "title": "\"내년에도 수출 1조달러 넘어…반도체 비중 첫 50% 돌파\"",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026112349791",
+      "published": "2026-11-23T17:27:25+09:00",
+      "images": []
+    },
+    {
+      "title": "내년 수출 14% 늘어 1조3000억달러…반도체 빼면 1.5% 증가에 그쳐",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12216162",
+      "published": "2026-11-23T15:27:45+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/23/rcv.YNA.20261119.PYH2026111919970005100_R.jpg"
+      ]
+    },
+    {
+      "title": "산업연구원 \"내년 수출 1조3천억달러…반도체 비중 51% 전망\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261123111400003",
+      "published": "2026-11-23T15:00:07+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111919920005100_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123111400003_01_i_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123111400003_02_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2025/11/24/PYH2025112406220001300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "한국, 사상 첫 수출 1조달러 돌파",
+      "source": "매일경제"
+    },
+    {
+      "title": "반도체가 이끈 성장, 비중 50% 첫 돌파",
+      "source": "한국경제·연합뉴스"
+    },
+    {
+      "title": "반도체 빼면 성장률 뚝… 속 빈 호황 우려",
+      "source": "매일경제"
+    },
+    {
+      "title": "기록적 수출에도 코스피는 급락",
+      "source": "매일경제"
+    }
+  ]
+}
