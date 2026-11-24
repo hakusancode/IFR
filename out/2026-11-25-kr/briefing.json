@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-25",
+  "edition": "kr",
+  "headline": "커닝도 AI로…고교 시험장 수능급 통제",
+  "issue_title": "중고교 내신도 전자기기 금지 … 화장실만 가도 금속탐지기 댄다",
+  "sources": [
+    "매일경제",
+    "연합뉴스"
+  ],
+  "article_count": 9,
+  "articles": [
+    {
+      "title": "중고교 내신도 전자기기 금지 … 화장실만 가도 금속탐지기 댄다",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12217411",
+      "published": "2026-11-24T17:35:39+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/25/20261125_01160105000002_L00.jpg"
+      ]
+    },
+    {
+      "title": "카드사 임직원 10명중 8명…\"5년내 AI 금융결제 상용화\"",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12217400",
+      "published": "2026-11-24T17:33:30+09:00",
+      "images": []
+    },
+    {
+      "title": "전남광주시, 공무원시험 AI 부정행위 방지 장비 도입 검토",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124162900054",
+      "published": "2026-11-24T17:30:46+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2026/07/15/59/PCM20260715000059990_P2.jpg"
+      ]
+    },
+    {
+      "title": "한화, 창원에 국방 AI 데이터센터 구축…2028년 첫 가동 목표",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124148600003",
+      "published": "2026-11-24T16:21:50+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124148600003_02_i_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124148600003_01_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "부산대·GS건설, 오염물질·곰팡이 감지하는 AI 센서 개발 추진",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124144100051",
+      "published": "2026-11-24T16:04:50+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124144100051_01_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "금융소비자 38%, 생성형AI 금융에 활용…절반은 의사결정에 영향",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124130500008",
+      "published": "2026-11-24T15:38:48+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124130500008_01_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "삼성 안내견·현대차 소방관 지원…국민이 뽑은 사회공헌 맛집",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124124300003",
+      "published": "2026-11-24T15:00:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112417470001300_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124124300003_01_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/10/PYH2026111002980000303_P2.jpg"
+      ]
+    },
+    {
+      "title": "울산 중등교사 임용시험장에 금속·전파탐지기 배치",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124110800057",
+      "published": "2026-11-24T13:57:24+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2020/09/07/51/PCM20200907000151990_P2.jpg"
+      ]
+    },
+    {
+      "title": "NIPA·금융결제원, 국산 AI반도체 금융권 실증 확대",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124084300017",
+      "published": "2026-11-24T11:50:24+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/cms/2016/02/19/01/C0A8CA3C00000152F76506240000548E_P2.jpeg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "기말고사부터 수능급 감독",
+      "source": "매일경제"
+    },
+    {
+      "title": "AI 부정행위 막기 위한 조치",
+      "source": "매일경제"
+    },
+    {
+      "title": "공무원시험으로도 확산 조짐",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "통제 강화, 어디까지 갈까",
+      "source": "매일경제·연합뉴스"
+    }
+  ]
+}
