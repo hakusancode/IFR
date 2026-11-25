@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-25",
+  "edition": "global",
+  "headline": "AI랠리 끝? 아시아증시 일제히 흔들",
+  "issue_title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 15,
+  "articles": [
+    {
+      "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
+      "published": "2026-11-25T11:53:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-20962071"
+      ]
+    },
+    {
+      "title": "Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+      "published": "2026-11-25T09:21:00+09:00",
+      "images": []
+    },
+    {
+      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
+      "published": "2026-11-25T07:03:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-67717693"
+      ]
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+      "published": "2026-11-25T06:59:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-02960527"
+      ]
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+      "published": "2026-11-25T06:58:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-12097522"
+      ]
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+      "published": "2026-11-25T06:55:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-19513536"
+      ]
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "published": "2026-11-25T06:53:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-52991838"
+      ]
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+      "published": "2026-11-25T06:53:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-68827432"
+      ]
+    },
+    {
+      "title": "Crude Futures Settle Higher on Shipping Risks",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "published": "2026-11-25T06:51:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Nvidia’s Relief Rally Stalls",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+      "published": "2026-11-25T06:23:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-00567119"
+      ]
+    },
+    {
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "published": "2026-11-25T04:32:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-89305301"
+      ]
+    },
+    {
+      "title": "Copper shows how AI is messing with markets",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+      "published": "2026-11-25T03:12:38+09:00",
+      "images": []
+    },
+    {
+      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "published": "2026-11-24T23:01:00+09:00",
+      "images": [
+        "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e"
+      ]
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "published": "2026-11-24T19:30:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-21088548"
+      ]
+    },
+    {
+      "title": "How much more air can come out of the AI trade?",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+      "published": "2026-11-23T04:44:21+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "아시아 증시, 동반 하락 마감",
+      "source": "WSJ"
+    },
+    {
+      "title": "젠슨 황 복귀 기대감 식어",
+      "source": "WSJ"
+    },
+    {
+      "title": "뉴욕증시도 상승분 반납",
+      "source": "WSJ"
+    },
+    {
+      "title": "AI 거품 논쟁, 더 커질 수도",
+      "source": "WSJ"
+    }
+  ]
+}
