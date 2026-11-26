@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-27",
+  "edition": "kr",
+  "headline": "서울 집값 뛰더니 종부세 폭탄 82만명",
+  "issue_title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 9,
+  "articles": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261126171000011",
+      "published": "2026-11-26T18:00:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112619410001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "종부세 대상 81만7000명…작년보다 19만명 늘었다",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/2026112631331",
+      "published": "2026-11-26T17:51:32+09:00",
+      "images": []
+    },
+    {
+      "title": "종부세 82만명 고지 … 1년새 19만명 급증",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12219709",
+      "published": "2026-11-26T17:42:09+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01160101000001_S00.jpg"
+      ]
+    },
+    {
+      "title": "종부세 고지서 ‘82만명’에 날아갔다…1년새 19만명 늘어",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12219702",
+      "published": "2026-11-26T17:41:45+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.b4e73445efd54110b645f43ccd218612_R.png"
+      ]
+    },
+    {
+      "title": "종부세 대상 1주택자 8만명 늘어…여당에서도 \"증세 속도 늦추자\"",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12219628",
+      "published": "2026-11-26T17:26:51+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01170105000001_S00.jpg"
+      ]
+    },
+    {
+      "title": "“집값 올랐다고 좋아할게 아녔어”…종부세 대상·세액 4년 만에 최대",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/realestate/12219536",
+      "published": "2026-11-26T16:52:11+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.9728ed8c23704259828e3b2049919bc6_R.png"
+      ]
+    },
+    {
+      "title": "“공시가격 상승 영향”…강남·마용성 아파트 보유세 40% 안팎 증가",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/economy/12219528",
+      "published": "2026-11-26T16:45:19+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.d1eb0f57fa4f4831861d9be5351bd1d6_R.png"
+      ]
+    },
+    {
+      "title": "주택 종부세 73만명에 고지, 19만명↑…1인당 평균세액 200만원",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261126145800002",
+      "published": "2026-11-26T16:00:01+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112618930001300_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112617340001300_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126145800002_02_i_P2.jpg"
+      ]
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261126120000011",
+      "published": "2026-11-26T14:30:05+09:00",
+      "images": [
+        "https://img.yna.co.kr/photo/yna/YH/2026/01/20/PYH2026012009240001300_P2.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "종부세 고지 82만명, 1년새 19만명 급증",
+      "source": "매일경제"
+    },
+    {
+      "title": "서울 공시가 18.6% 뛴 여파",
+      "source": "매일경제"
+    },
+    {
+      "title": "여당서도 \"증세 속도 늦추자\"",
+      "source": "매일경제"
+    },
+    {
+      "title": "내년엔 더 늘어날 전망",
+      "source": "매일경제·연합뉴스"
+    }
+  ]
+}
