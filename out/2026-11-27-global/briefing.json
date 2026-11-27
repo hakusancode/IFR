@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-27",
+  "edition": "global",
+  "headline": "금값 꿈틀, 그러나 아직 불안하다",
+  "issue_title": "Gold Stabilizes But Faces Fragile Recovery",
+  "sources": [
+    "WSJ"
+  ],
+  "article_count": 2,
+  "articles": [
+    {
+      "title": "Gold Stabilizes But Faces Fragile Recovery",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+      "published": "2026-11-27T09:25:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "published": "2026-11-27T02:23:00+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "금값, 숨고르기 끝내고 반등",
+      "source": "WSJ"
+    },
+    {
+      "title": "매파적 연준이 발목 잡아",
+      "source": "WSJ"
+    },
+    {
+      "title": "시장은 아직 관망 모드",
+      "source": "WSJ"
+    },
+    {
+      "title": "확실한 반등엔 시간 필요",
+      "source": "WSJ"
+    }
+  ]
+}
