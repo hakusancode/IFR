@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-29",
+  "edition": "kr",
+  "headline": "GS, 동해에 AI센터 첫삽…긴축은 재가동",
+  "issue_title": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
+  "sources": [
+    "매일경제",
+    "연합뉴스",
+    "한국경제"
+  ],
+  "article_count": 3,
+  "articles": [
+    {
+      "title": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
+      "source": "한국경제",
+      "link": "https://www.hankyung.com/article/202611285956i",
+      "published": "2026-11-28T13:34:46+09:00",
+      "images": []
+    },
+    {
+      "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
+      "source": "연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261127140100003",
+      "published": "2026-11-28T12:05:00+09:00",
+      "images": [
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127140100003_02_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/28/PYH2026112802420001300_P2.jpg",
+        "https://img.yna.co.kr/etc/inner/KR/2026/11/27/AKR20261127140100003_01_i_P2.jpg",
+        "https://img.yna.co.kr/photo/yna/YH/2026/11/28/PYH2026112802520001300_P2.jpg"
+      ]
+    },
+    {
+      "title": "“한은 금리 인상, 이제 시작일 뿐?”…다시 빨라진 글로벌 ‘긴축 시계’",
+      "source": "매일경제",
+      "link": "https://www.mk.co.kr/news/world/12220621",
+      "published": "2026-11-28T07:52:49+09:00",
+      "images": [
+        "https://pimg.mk.co.kr/news/cms/202611/28/rcv.YNA.20261126.PRU20261126074501009_R.jpg"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "title": "GS, 동해에 AI데이터센터 착공",
+      "source": "연합뉴스·한국경제"
+    },
+    {
+      "title": "왜 지금 대형 투자인가",
+      "source": "매일경제"
+    },
+    {
+      "title": "동시에 커지는 긴축 경계",
+      "source": "매일경제"
+    },
+    {
+      "title": "앞으로 관전 포인트",
+      "source": "매일경제·한국경제"
+    }
+  ]
+}
