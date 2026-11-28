@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-28",
+  "edition": "global",
+  "headline": "AI 공포 잠시 멈춘 뉴욕증시, 안도 랠리",
+  "issue_title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+  "sources": [
+    "The Economist",
+    "WSJ"
+  ],
+  "article_count": 7,
+  "articles": [
+    {
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "published": "2026-11-28T06:16:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-22450552"
+      ]
+    },
+    {
+      "title": "Treasury Yields Gain As U.S. Equities Rally",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "published": "2026-11-28T06:10:00+09:00",
+      "images": []
+    },
+    {
+      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
+      "published": "2026-11-28T05:20:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-52368302"
+      ]
+    },
+    {
+      "title": "Stock Futures Jump as AI Trade Set for Rebound",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "published": "2026-11-27T22:46:00+09:00",
+      "images": [
+        "https://images.wsj.net/im-14953166"
+      ]
+    },
+    {
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "source": "WSJ",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "published": "2026-11-27T17:32:00+09:00",
+      "images": []
+    },
+    {
+      "title": "History’s warning lesson for Anthropic",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+      "published": "2026-11-26T18:49:07+09:00",
+      "images": []
+    },
+    {
+      "title": "Mexico’s export boom is real—and disappointing",
+      "source": "The Economist",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+      "published": "2026-11-26T18:45:41+09:00",
+      "images": []
+    }
+  ],
+  "cards": [
+    {
+      "title": "AI 투자심리, 다시 살아나다",
+      "source": "WSJ"
+    },
+    {
+      "title": "국채금리·달러·귀금속 동반 상승",
+      "source": "WSJ"
+    },
+    {
+      "title": "유럽 증시도 기술·방산주가 견인",
+      "source": "WSJ"
+    }
+  ]
+}
